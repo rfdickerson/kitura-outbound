@@ -1,2 +1,3 @@
-# Tiny Swift
-Very simple server-side Swift application that can be run local on your macOS or Linux box or in Bluemix Cloud Foundry
+# Kitura Outbound Requests
+
+A simple example used for testing that sends out regular outbound requests at an interval.
